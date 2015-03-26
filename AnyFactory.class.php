@@ -13,6 +13,7 @@ class AnyFactory {
 	const TYPE_STORAGE_DB = 2;
 	const TYPE_STORAGE_REDIS = 3;
 
+
 	//统计数据
 	const TYPE_ANY_DB = 1;
 	const TYPE_ANY_REDIS = 2;
